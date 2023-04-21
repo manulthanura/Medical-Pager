@@ -1,16 +1,20 @@
 # Medical Pager Chat App
 
-![Chat Application](https://i.ibb.co/hsvcw4V/image.png)
 
 ## Introduction
-This is a code repository for the corresponding video tutorial. 
+This is a chat app that allows users to chat with each other in real time. It is built with React, Redux, Node, Express, and Socket.io.
 
-In this video, we will create a full Realtime Chat Application. We're going to use React on the front end, NodeJS on the back end and the entire chat is powered with https://gstrm.io/js-mastery.
+## Features
+- Users can create a new chat room
+- Users can join an existing chat room
+- Users can send messages to other users in the chat room
+- Users can see who is online in the chat room
+- Users can see who is typing in the chat room
 
-By the end of this video, you will be able to build any real-time chat application you can think of.
-
+## Demo
+ pending...
+ 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
+## Stay up to date with the projects
