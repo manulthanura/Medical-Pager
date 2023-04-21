@@ -6,4 +6,4 @@ const ChannelListContainer = () => {
   )
 }
 
-export default ChannelListContainer
+export default ChannelListContainer;

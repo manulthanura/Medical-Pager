@@ -6,4 +6,4 @@ const ChannelContainer = () => {
   )
 }
 
-export default ChannelContainer
+export default ChannelContainer;
