@@ -18,3 +18,5 @@ Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
 
 ## Stay up to date with the projects
+
+**Love This? Give my repo a star :star:** so that you can find it easily next time you need it.
